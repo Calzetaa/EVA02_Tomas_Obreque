@@ -41,10 +41,6 @@ Para salir, escribe s o salir.
 
 🧩 Ejemplo de salida
 ===============================================
- Perfiles de vehículo disponibles:
- - auto, bicicleta, caminando
- (escriba 's' o 'salir' para terminar)
-===============================================
 Ingrese el perfil de vehículo que utilizará: auto
 Dirección de origen: Temuco, Chile
 Dirección de destino: Padre Las Casas, Chile
@@ -58,4 +54,5 @@ Narrativa del viaje (paso a paso):
 - Cruce el puente hacia Padre Las Casas (3.10 km / 1.93 mi)
 - Gire a la derecha en Avenida Maquehue (1.63 km / 1.01 mi)
 =================================================
+
 
