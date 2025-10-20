@@ -20,7 +20,7 @@ El programa solicita al usuario un medio de transporte (auto, bicicleta o camina
 
 1. Clona el repositorio:
 
-    - git clone https://github.com/tu_usuario/EVA02_TOMAS_OBREQUE.git
+    - git clone https://github.com/Calzetaa/EVA02_TOMAS_OBREQUE.git
     - cd EVA02_TOMAS_OBREQUE
       
 2. Instala las dependencias necesarias:
