@@ -39,20 +39,7 @@ Ingresa las direcciones de origen y destino.
 
 Para salir, escribe s o salir.
 
-🧩 Ejemplo de salida
-===============================================
-Ingrese el perfil de vehículo que utilizará: auto
-Dirección de origen: Temuco, Chile
-Dirección de destino: Padre Las Casas, Chile
+🧩 ![Ejemplo de salida](https://github.com/Calzetaa/EVA02_Tomas_Obreque/blob/main/ejemplo_salida.png)
 
-Distancia total: 5.23 km / 3.25 millas
-Duración (hh:mm:ss): 00:08:47
-Duración (horas): 0.15 h
--------------------------------------------------
-Narrativa del viaje (paso a paso):
-- Salga desde Temuco hacia el sur (0.50 km / 0.31 mi)
-- Cruce el puente hacia Padre Las Casas (3.10 km / 1.93 mi)
-- Gire a la derecha en Avenida Maquehue (1.63 km / 1.01 mi)
-=================================================
 
 
