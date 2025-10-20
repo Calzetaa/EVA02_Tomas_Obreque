@@ -39,8 +39,8 @@ Ingresa las direcciones de origen y destino.
 
 Para salir, escribe s o salir.
 
-🧩 Ejemplo de salida
-    ![foto](https://github.com/Calzetaa/EVA02_Tomas_Obreque/blob/main/ejemplo_salida.png)
+## 🧩 Ejemplo de salida
 
+A continuación se muestra el resultado del programa al ejecutarse correctamente:
 
-
+![Ejemplo de salida del programa](ejemplo_salida.png)
