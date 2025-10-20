@@ -1,10 +1,10 @@
 # EVA02_Tomas_Obreque
-🧭 Descripción del proyecto
+## 🧭 Descripción del proyecto
 
 Este proyecto corresponde a la Evaluación 2 del módulo de Desarrollo de Software, en la cual se implementa un programa en Python que utiliza la API de GraphHopper para realizar geolocalización y obtener rutas entre dos puntos.
 El programa solicita al usuario un medio de transporte (auto, bicicleta o caminando), las direcciones de origen y destino, y luego muestra la distancia total, la duración del viaje y las instrucciones paso a paso en español.
 
-⚙️ Requerimientos principales
+## ⚙️ Requerimientos principales
 
 -Traducir toda la interacción con el usuario al español.
 
@@ -16,7 +16,7 @@ El programa solicita al usuario un medio de transporte (auto, bicicleta o camina
 
 -Utilizar la API de GraphHopper para geocodificación y rutas.
 
-🐍 Instrucciones de ejecución
+## 🐍 Instrucciones de ejecución
 
 1. Clona el repositorio:
 
